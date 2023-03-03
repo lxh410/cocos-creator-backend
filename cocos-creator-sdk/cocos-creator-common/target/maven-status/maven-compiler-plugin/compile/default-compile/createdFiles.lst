@@ -1,0 +1,15 @@
+cocos\creator\common\util\RedisUtil.class
+cocos\creator\common\vo\UserLoginVo.class
+cocos\creator\common\constant\FieldConstant.class
+cocos\creator\common\vo\UserAddVo.class
+cocos\creator\common\util\ResultUtil.class
+cocos\creator\common\constant\StringConstant.class
+cocos\creator\common\util\RegExUtil.class
+cocos\creator\common\entity\User.class
+cocos\creator\common\util\TokenUtil.class
+cocos\creator\common\constant\DateConstant.class
+cocos\creator\common\constant\TokenConstant.class
+cocos\creator\common\enums\user\UserStatusEnum.class
+cocos\creator\common\enums\ResultCodeEnum.class
+cocos\creator\common\vo\UserRegisterVo.class
+cocos\creator\common\enums\RedisKeyEnum.class

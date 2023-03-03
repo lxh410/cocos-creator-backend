@@ -1,0 +1,15 @@
+#GateWay项目端口号
+server:
+  port: 9201
+spring:
+  application:
+    name: cocos-creator-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.110.112:8848
+    gateway:
+      discovery:
+        locator:
+          enabled: true #使用服务发现路由
+          lower-case-service-id: true
