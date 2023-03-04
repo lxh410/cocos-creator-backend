@@ -6,7 +6,7 @@ spring:
     name: cocos-creator-account
   datasource:
     #   数据源基本配置
-    url: jdbc:mysql://192.168.110.112:3306/cocos_creator?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&useSSL=true
+    url: jdbc:mysql://192.168.41.9:3306/cocos_creator?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&useSSL=true
     username: root
     password: 123456
     driver-class-name: com.mysql.cj.jdbc.Driver
@@ -41,9 +41,9 @@ spring:
   cloud:
     nacos:
       discovery:
-        server-addr: 192.168.110.112:8848 #服务注册地址
+        server-addr: 192.168.41.9:8848 #服务注册地址
   redis:
-    host: 192.168.110.112
+    host: 192.168.41.9
     port: 6379
     database: 0
     #连接超时时间(毫秒)

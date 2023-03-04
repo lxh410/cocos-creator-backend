@@ -1,4 +1,4 @@
-package generator;
+package cocos.creator.generator;
 
 import com.baomidou.mybatisplus.generator.FastAutoGenerator;
 import com.baomidou.mybatisplus.generator.config.OutputFile;
@@ -14,12 +14,12 @@ import java.util.List;
  *
  * @author 刘旭辉
  */
-public class MybatisPlusGeneratorUtil {
+public class MybatisPlusGenerator {
 
     public static void main(String[] args) {
         List<String> schemas = new ArrayList<>(); // 数据表列表
         schemas.add("user");
-        FastAutoGenerator.create("jdbc:mysql://localhost:3306/cocos_creator?serverTimezone=Asia/Shanghai",
+        FastAutoGenerator.create("jdbc:mysql://192.168.41.9:3306/cocos_creator?serverTimezone=Asia/Shanghai",
                 "root", "123456")
                 //全局配置
                 .globalConfig(builder -> {
@@ -30,11 +30,11 @@ public class MybatisPlusGeneratorUtil {
                             .dateType(DateType.TIME_PACK)                                   // 时间策略
                             .commentDate("yyyy-MM-dd")                                      // 注释日期
                             .outputDir(System.getProperty("user.dir")
-                                    + "/src/main/java");                           // 指定输出目录
+                                    + "/cocos-creator-sdk/cocos-creator-generator/src/main/java");                           // 指定输出目录
                 })
                 //包配置
                 .packageConfig(builder -> {
-                    builder.parent("src/cocos/creator/generator")                                    // 设置父包名(也可以生成目录)
+                    builder.parent("cocos.creator.generator")                                    // 设置父包名(也可以生成目录)
                             //.moduleName("system")                                     // 设置父包模块名
 //                            .entity("model")
 //                            .service("service")
@@ -44,7 +44,7 @@ public class MybatisPlusGeneratorUtil {
                             .pathInfo(Collections.singletonMap(
                                     OutputFile.xml,
                                     System.getProperty("user.dir")
-                                            + "/src/cocos/creator/generator/mapper"));           // 设置mapperXml生成路径
+                                            + "/cocos-creator-sdk/cocos-creator-generator/src/main/java/cocos/creator/generator/mapper"));           // 设置mapperXml生成路径
 
                 })
                 //策略配置

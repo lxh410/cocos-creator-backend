@@ -17,6 +17,7 @@
         <module>cocos-creator-gateway</module>
         <module>cocos-creator-account</module>
         <module>cocos-creator-sdk/cocos-creator-common</module>
+        <module>cocos-creator-sdk/cocos-creator-generator</module>
     </modules>
     <!--统一编码和JAVA版本-->
     <properties>
