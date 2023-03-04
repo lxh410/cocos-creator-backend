@@ -1,2 +1,7 @@
-# cocos-creator-backend
-后端服务(包含token生成，网关校验)
+# cocos-creator-backend(后端服务:spring boot+mybatis_plus+spring_cloud_alibaba)
+ cocos-creator-account:管理用户/租户等账户相关的服务，包含了token生成; <br>
+ cocos-creator-sdk:管理所有依赖+common公共部分; <br>
+ cocos-creator-gateway:网关,作为统一入口,用于路由鉴权限流等; <br>
+ ... <br>
+ 后续服务待补充 <br>
+
