@@ -1,1 +1,6 @@
+cocos\creator\generator\entity\User.class
 cocos\creator\generator\MybatisPlusGenerator.class
+cocos\creator\generator\service\UserService.class
+cocos\creator\generator\controller\UserController.class
+cocos\creator\generator\mapper\UserMapper.class
+cocos\creator\generator\service\impl\UserServiceImpl.class

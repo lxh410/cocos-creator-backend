@@ -1,0 +1,66 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"fc637df3-cf18-478c-9d75-1717b5ce988e\" name=\"Default Changelist\" comment=\"\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Enum\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MavenImportPreferences\">\n    <option name=\"generalSettings\">\n      <MavenGeneralSettings>\n        <option name=\"localRepository\" value=\"D:\\software\\maven\\repository\" />\n        <option name=\"mavenHome\" value=\"D:\\software\\maven\\apache-maven-3.6.3\" />\n        <option name=\"userSettingsFile\" value=\"D:\\software\\maven\\apache-maven-3.6.3\\conf\\settings_非云仓库.xml\" />\n      </MavenGeneralSettings>\n    </option>\n    <option name=\"importingSettings\">\n      <MavenImportingSettings>\n        <option name=\"jdkForImporter\" value=\"1.8\" />\n      </MavenImportingSettings>\n    </option>\n  </component>\n  <component name=\"MavenRunner\">\n    <option name=\"delegateBuildToMaven\" value=\"true\" />\n    <option name=\"jreName\" value=\"1.8\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2MMT9LW3kUN3EpbZRKpavDQIRhv\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RequestMappingsPanelOrder0\" value=\"0\" />\n    <property name=\"RequestMappingsPanelOrder1\" value=\"1\" />\n    <property name=\"RequestMappingsPanelWidth0\" value=\"75\" />\n    <property name=\"RequestMappingsPanelWidth1\" value=\"75\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\n    <property name=\"jdk.selected.JAVA_MODULE\" value=\"1.8\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/cocos-creator-account/src/main/java/cocos/creator/account\" />\n    <property name=\"project.structure.last.edited\" value=\"Problems\" />\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\n    <property name=\"project.structure.side.proportion\" value=\"0.4970588\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"File.Encoding\" />\n  </component>\n  <component name=\"ReactorSettings\">\n    <option name=\"notificationShown\" value=\"true\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"D:\\work\\cocos-creator\\cocos-creator-account\\src\\main\\java\\cocos\\creator\\account\" />\n      <recent name=\"D:\\work\\cocos-creator\\cocos-creator-sdk\\cocos-creator-common\\src\\main\\java\\cocos\\creator\\common\\config\" />\n      <recent name=\"D:\\work\\cocos-creator\\cocos-creator-sdk\\cocos-creator-common\\src\\main\\java\\cocos\\creator\\common\\vo\" />\n      <recent name=\"D:\\work\\cocos-creator\\cocos-creator-sdk\\cocos-creator-common\\src\\main\\java\\cocos\\creator\\common\\util\" />\n      <recent name=\"D:\\work\\cocos-creator\\cocos-creator-sdk\\cocos-creator-common\\src\\main\\java\\cocos\\creator\\common\\enums\" />\n    </key>\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\n      <recent name=\"cocos.creator.common.entity\" />\n      <recent name=\"cocos.creator.account.service.impl\" />\n      <recent name=\"cocos.creator.account.service\" />\n      <recent name=\"cocos.creator.account.common.vo\" />\n    </key>\n  </component>\n  <component name=\"RunDashboard\">\n    <option name=\"configurationTypes\">\n      <set>\n        <option value=\"SpringBootApplicationConfigurationType\" />\n      </set>\n    </option>\n  </component>\n  <component name=\"RunManager\" selected=\"Spring Boot.CocosCreatorGatewayApplication\">\n    <configuration name=\"DateConstant\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"cocos.creator.account.common.constant.DateConstant\" />\n      <module name=\"cocos-creator-account\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"cocos.creator.account.common.constant.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"TokenUtil\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"cocos.creator.account.common.util.TokenUtil\" />\n      <module name=\"cocos-creator-account\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"cocos.creator.account.common.util.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration default=\"true\" type=\"ArquillianJUnit\" factoryName=\"\" nameIsGenerated=\"true\">\n      <option name=\"arquillianRunConfiguration\">\n        <value>\n          <option name=\"containerStateName\" value=\"\" />\n        </value>\n      </option>\n      <option name=\"TEST_OBJECT\" value=\"class\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"CocosCreatorAccountApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\">\n      <module name=\"cocos-creator-account\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"cocos.creator.account.CocosCreatorAccountApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"CocosCreatorGatewayApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\">\n      <module name=\"cocos-creator-gateway\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"cocos.creator.gateway.CocosCreatorGatewayApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.DateConstant\" />\n        <item itemvalue=\"Application.TokenUtil\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"fc637df3-cf18-478c-9d75-1717b5ce988e\" name=\"Default Changelist\" comment=\"\" />\n      <created>1677576301149</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1677576301149</updated>\n      <workItem from=\"1677576302318\" duration=\"206000\" />\n      <workItem from=\"1677727001232\" duration=\"2172000\" />\n      <workItem from=\"1677735259006\" duration=\"355000\" />\n      <workItem from=\"1677735629527\" duration=\"184000\" />\n      <workItem from=\"1677735832803\" duration=\"3040000\" />\n      <workItem from=\"1677739169284\" duration=\"13940000\" />\n      <workItem from=\"1677810311425\" duration=\"8767000\" />\n      <workItem from=\"1677823949508\" duration=\"543000\" />\n      <workItem from=\"1677824521179\" duration=\"1044000\" />\n      <workItem from=\"1677825585086\" duration=\"4711000\" />\n      <workItem from=\"1677830611575\" duration=\"549000\" />\n      <workItem from=\"1677831174845\" duration=\"1660000\" />\n      <workItem from=\"1677832858577\" duration=\"609000\" />\n      <workItem from=\"1677833482054\" duration=\"2952000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 771da19e0feb9bf2f3f662299d25ea840a16b291)
++++ b/.idea/workspace.xml	(date 1677837664008)
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="fc637df3-cf18-478c-9d75-1717b5ce988e" name="Default Changelist" comment="" />
++    <list default="true" id="fc637df3-cf18-478c-9d75-1717b5ce988e" name="Default Changelist" comment="start">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -56,6 +58,7 @@
+     <property name="aspect.path.notification.shown" value="true" />
+     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+     <property name="last_opened_file_path" value="$PROJECT_DIR$/cocos-creator-account/src/main/java/cocos/creator/account" />
++    <property name="nodejs_package_manager_path" value="npm" />
+     <property name="project.structure.last.edited" value="Problems" />
+     <property name="project.structure.proportion" value="0.15" />
+     <property name="project.structure.side.proportion" value="0.4970588" />
+@@ -166,12 +169,35 @@
+       <workItem from="1677830611575" duration="549000" />
+       <workItem from="1677831174845" duration="1660000" />
+       <workItem from="1677832858577" duration="609000" />
+-      <workItem from="1677833482054" duration="2952000" />
++      <workItem from="1677833482054" duration="4162000" />
++    </task>
++    <task id="LOCAL-00001" summary="start">
++      <created>1677836496179</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1677836496179</updated>
+     </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="start" />
++    <option name="LAST_COMMIT_MESSAGE" value="start" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />

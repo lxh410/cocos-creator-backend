@@ -1,1 +1,6 @@
-D:\work\cocos-creator\cocos-creator-sdk\cocos-creator-generator\src\main\java\cocos\creator\generator\util\MybatisPlusGeneratorUtil.java
+D:\work\cocos-creator\cocos-creator-sdk\cocos-creator-generator\src\main\java\cocos\creator\generator\MybatisPlusGenerator.java
+D:\work\cocos-creator\cocos-creator-sdk\cocos-creator-generator\src\main\java\cocos\creator\generator\entity\User.java
+D:\work\cocos-creator\cocos-creator-sdk\cocos-creator-generator\src\main\java\cocos\creator\generator\service\UserService.java
+D:\work\cocos-creator\cocos-creator-sdk\cocos-creator-generator\src\main\java\cocos\creator\generator\controller\UserController.java
+D:\work\cocos-creator\cocos-creator-sdk\cocos-creator-generator\src\main\java\cocos\creator\generator\service\impl\UserServiceImpl.java
+D:\work\cocos-creator\cocos-creator-sdk\cocos-creator-generator\src\main\java\cocos\creator\generator\mapper\UserMapper.java
